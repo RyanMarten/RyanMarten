@@ -1,6 +1,9 @@
-### Hi there 👋
+Hi there 👋
+
+I am an undergrad in Computer Science at the [University of Toronto](https://www.utoronto.ca/), where I am very fortunate to be advised by Professor [Sven Dickinson](http://www.cs.toronto.edu/~sven/). Most recently I was a Research Intern at [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) at the [University of Oxford](https://www.ox.ac.uk/). I'm interested in language vision integration, generative models, and multi-modal representations. My long term research goal is to use machine learning to create models that reason meaningfully about concepts both in language and vision. 
 
 <!--
+### 
 **RyanMarten/RyanMarten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
