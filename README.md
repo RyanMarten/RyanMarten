@@ -1,7 +1,4 @@
-Hi there 👋
-
-I am a [Computer Science Master's](https://cs.illinois.edu/academics/graduate/ms-program) student at the [University of Illinois Urbana-Champaign](https://illinois.edu/). Most recently, I was a research intern at the [Allen Institute for Artificial Intelligence](https://allenai.org/). Last summer, I was an applied machine learning intern at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/). Before that, I completed my undergrad in Computer Science at the [University of Toronto](https://www.utoronto.ca/), supervised by Professor [Sven Dickinson](http://www.cs.toronto.edu/~sven/). During which, I was a research intern at [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) at the [University of Oxford](https://www.ox.ac.uk/) and [MIT CSAIL](https://www.csail.mit.edu/) with [Fredo Durand](http://people.csail.mit.edu/fredo/). My current research focus is on general purpose learning for vision and language, supervised by Derek Hoiem.
-
+:D 
 
 <!--
 ### 
